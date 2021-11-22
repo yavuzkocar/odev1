@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.exe
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.deps.json
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.runtimeconfig.json
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.runtimeconfig.dev.json
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.dll
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\ref\odev1.dll
+D:\yazılım\pratikler\odev1\bin\Debug\net5.0\odev1.pdb
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.AssemblyInfo.cs
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.dll
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\ref\odev1.dll
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.pdb
+D:\yazılım\pratikler\odev1\obj\Debug\net5.0\odev1.genruntimeconfig.cache
